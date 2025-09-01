@@ -1,0 +1,32 @@
+{
+    "profile_backgrounds": [
+        {
+            "id": "default_bg",
+            "name": "Default Gradient",
+            "price": 0,
+            "path": "default.png",
+            "description": "The sleek, default gradient background."
+        },
+        {
+            "id": "galaxy_bg",
+            "name": "Cosmic Galaxy",
+            "price": 2500,
+            "path": "galaxy.png",
+            "description": "A stunning view of a distant galaxy."
+        },
+        {
+            "id": "sunset_bg",
+            "name": "Pixel Sunset",
+            "price": 1500,
+            "path": "sunset.png",
+            "description": "A beautiful retro pixel art sunset."
+        },
+        {
+            "id": "forest_bg",
+            "name": "Enchanted Forest",
+            "price": 1800,
+            "path": "forest.png",
+            "description": "A mystical forest with glowing mushrooms."
+        }
+    ]
+}

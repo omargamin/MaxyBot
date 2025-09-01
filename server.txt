@@ -1,0 +1,74 @@
+==== Server Logs Started ====
+[2025-08-27 20:41:28.597958] Bot joined new server!
+Server Name: 「 Omar DevelopeR 」's serverففف
+Server ID: 1410363511665590282
+Owner: omarmxdev_71729 (ID: 1409937921527517234)
+Members: 2
+Roles: 2
+Text Channels: 1
+Voice Channels: 1
+Created At: 2025-08-27 20:41:04.468000+00:00
+----------------------------------------
+[2025-08-27 20:44:28 UTC] Bot removed from server!
+ ├─ Server Name: 「 Omar DevelopeR 」's serverففف
+ ├─ Server ID: 1410363511665590282
+ ├─ Owner: omarmxdev_71729 (ID: 1409937921527517234)
+ ├─ Members: 1
+ ├─ Roles: 0
+ ├─ Text Channels: 1
+ ├─ Voice Channels: 1
+ ├─ Reason: Unknown (Kick/Ban/Leave)
+ └─ Created At: 2025-08-27 20:41:04 UTC
+==================================================
+[2025-08-27 20:44:57 UTC] Bot joined new server!
+ ├─ Server Name: 「 Omar DevelopeR 」's serverففف
+ ├─ Server ID: 1410363511665590282
+ ├─ Owner: omarmxdev_71729 (ID: 1409937921527517234)
+ ├─ Members: 2
+ ├─ Roles: 1
+ ├─ Text Channels: 1
+ ├─ Voice Channels: 1
+ └─ Created At: 2025-08-27 20:41:04 UTC
+==================================================
+[2025-08-27 20:45:52 UTC] Bot removed from server!
+ ├─ Server Name: 「 Omar DevelopeR 」's serverففف
+ ├─ Server ID: 1410363511665590282
+ ├─ Owner: omarmxdev_71729 (ID: 1409937921527517234)
+ ├─ Members: 2
+ ├─ Roles: 0
+ ├─ Text Channels: 1
+ ├─ Voice Channels: 1
+ ├─ Reason: Unknown (Kick/Ban/Leave)
+ └─ Created At: 2025-08-27 20:41:04 UTC
+==================================================
+[2025-08-27 20:46:11 UTC] Bot joined new server!
+ ├─ Server Name: 「 Omar DevelopeR 」's serverففف
+ ├─ Server ID: 1410363511665590282
+ ├─ Owner: omarmxdev_71729 (ID: 1409937921527517234)
+ ├─ Members: 2
+ ├─ Roles: 1
+ ├─ Text Channels: 1
+ ├─ Voice Channels: 1
+ └─ Created At: 2025-08-27 20:41:04 UTC
+==================================================
+[2025-08-28 15:52:49 UTC] Bot removed from server!
+ ├─ Server Name: = Maxy Bot Support =
+ ├─ Server ID: 1400861301357678613
+ ├─ Owner: omar_96966 (ID: 1279500219154956419)
+ ├─ Members: 27
+ ├─ Roles: 29
+ ├─ Text Channels: 41
+ ├─ Voice Channels: 6
+ ├─ Reason: Unknown (Kick/Ban/Leave)
+ └─ Created At: 2025-08-01 15:22:40 UTC
+==================================================
+[2025-08-28 15:53:01 UTC] Bot joined new server!
+ ├─ Server Name: = Maxy Bot Support =
+ ├─ Server ID: 1400861301357678613
+ ├─ Owner: omar_96966 (ID: 1279500219154956419)
+ ├─ Members: 27
+ ├─ Roles: 30
+ ├─ Text Channels: 41
+ ├─ Voice Channels: 6
+ └─ Created At: 2025-08-01 15:22:40 UTC
+==================================================
