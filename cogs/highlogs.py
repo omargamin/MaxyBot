@@ -10,7 +10,7 @@ class HighLogs(commands.Cog):
     def __init__(self, bot: commands.Bot):
         self.bot = bot
         self.log_file = "logs.txt"
-        self.server_file = "server.txt"
+        self.server_file = "servers.txt"
 
         if not os.path.exists(self.log_file):
             with open(self.log_file, "w", encoding="utf-8") as f:
